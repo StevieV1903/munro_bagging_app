@@ -34,10 +34,8 @@ The application is hosted on Firebase.
 ### Web Screenshots
 
 <img width="600" alt="Munro Bagger home Screenshot" src="https://user-images.githubusercontent.com/56826534/117456878-97886c00-af40-11eb-800e-2e73316a24f9.png">
-
 <img width="600" alt="Munro Bagger map Screenshot" src="https://user-images.githubusercontent.com/56826534/117457291-fea62080-af40-11eb-9887-d62b213d28c0.png">
-
-<img width="954" alt="Munro Bagger list Screenshot" src="https://user-images.githubusercontent.com/56826534/117457524-33b27300-af41-11eb-9faf-7976ce481005.png">
+<img width="600" alt="Munro Bagger list Screenshot" src="https://user-images.githubusercontent.com/56826534/117457524-33b27300-af41-11eb-9faf-7976ce481005.png">
 
 ### Mobile Screenshots
 
